@@ -92,7 +92,8 @@ cd ../frontend
 npm install
 npm start
 ```
-##🔐 Environment Variables
+##🔐 Environment Variables 
+
 In the backend/.env file, add:
 
 ```bash
